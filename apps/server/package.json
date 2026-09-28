@@ -1,0 +1,5 @@
+{
+  "name": "@apartamento/server",
+  "private": true,
+  "type": "module"
+}
